@@ -1,0 +1,1 @@
+npm i eslint eslint-plugin-simple-import-sort prettier -D
